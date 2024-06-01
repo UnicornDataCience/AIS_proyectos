@@ -1,0 +1,14 @@
+streamlit
+pandas 
+scikit-sklearn
+joblib
+chromadb
+torch
+transformers
+pytorch_lightning
+sentence_transformers
+langchain
+langchain-community
+langchainhub
+chromadb
+bs4
